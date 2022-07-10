@@ -1,7 +1,4 @@
 This is a test file to test git branches. I will work on this file and update frequently
 
 
-Hotfix for GUI.
-
-
-Change done on hotfix branch
+For review purposes --> I edited this file 
